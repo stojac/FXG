@@ -1,6 +1,6 @@
 <?php
 
 print ("Hello world");
-print ("Boodby John");
+print ("Goodby John");
 
 ?>
